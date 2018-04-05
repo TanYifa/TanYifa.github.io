@@ -2,7 +2,7 @@
 ## This is an <h2> tag
 ##### <h6> tag
 
-*Text inside two /* will be italic*
+*Text inside two \* will be italic*
 
 _This will also be italic_
 
@@ -20,8 +20,6 @@ _Bold can combine with **italic**_
 
 1. Item 1
 2. Item 2
-
-    2. Item 2a
-    
-    2. Item 2b
+    3. Item 3
+    4. Item 4
 
