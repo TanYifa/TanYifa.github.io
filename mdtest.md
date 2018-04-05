@@ -41,9 +41,9 @@ Here is a link that links to [itself]
 
 [4]: https://www.pconline.com.cn
 
-[itself]: https://www.it168.cn
+[itself]: https://www.it168.com
 
-###Images
+### Images
 
 Here's an iris:
 Inline-style:
@@ -53,6 +53,8 @@ Reference-style:
 ![alt text][iris]
 
 [iris]:https://github.com/TanYifa/TanYifa.github.io/blob/master/th.jpg
+
+
 
 ```python
 def product(x,y):
